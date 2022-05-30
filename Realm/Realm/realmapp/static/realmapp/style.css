@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&display=swap');
+* {
+    font-family: 'Boogaloo', cursive;
+}
+.navbar {
+    color:#4d9692;
+    background-color: #1f2121;
+}
+
+.logo {  
+    padding-left: 20px;
+}
+
+.logobtn {
+    color:#4d9692;
+    background-color: #1f2121;  
+    border: 0cm;
+}
+
+.navlinks {
+    align-self: center;
+}
+
+.navlink {
+    padding: 15px;
+    margin: 5px;
+    color: #4d9692;
+    background-color: #1f2121;
+    border: 0cm;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.navlink:hover {
+    background-color: #4c5756;
+}
+
+.socials {
+    padding-right: 20px;
+}
+
+#socials-link {
+    padding: 5px;
+    color: #4d9692;
+    border: 0cm;
+}
+
+#socials-link:hover i{
+    transform: scale(1.5);
+}
+
+body {
+    background-color: #1f2121;
+    
+}
+
+.intro {
+    color:#4d9692;
+    padding-top: 35px;
+
+}
+
+#contactme {
+    border-radius: 30px;
+    border: none;
+    height: 60px;
+    width: 120px;
+    background-color: #4d9692;
+}
+
+#contactme:hover {
+    background-color: #406868;
+    
+}
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    color:#4d9692;
+    padding-left: 450px;
+}
